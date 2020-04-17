@@ -1,6 +1,6 @@
 # Building Micro Frontends with React, Vue, and Single-spa
 
-Article on Dzone star the git-repo if you like https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react?preview=true
+Article on [Dzone](https://dzone.com/articles/building-micro-frontends-with-single-spa-and-react) star the git-repo if you like 
 
 ## [Buy me a coffee](https://www.paypal.me/MayurIngleIN)
 
